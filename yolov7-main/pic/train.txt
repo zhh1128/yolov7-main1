@@ -1,0 +1,8 @@
+G:\yolo\yolov7-main1\yolov7-main\pic\images\train\2dog.jpg
+G:\yolo\yolov7-main1\yolov7-main\pic\images\train\9c1c39f3b5d41f7914567cb528db8c38.jpeg
+G:\yolo\yolov7-main1\yolov7-main\pic\images\train\407c8d4f9373b5882ad6a9843129692a.jpeg
+G:\yolo\yolov7-main1\yolov7-main\pic\images\train\4349757e1822932489fc12a73920fe51.jpeg
+G:\yolo\yolov7-main1\yolov7-main\pic\images\train\cat_224x224.jpg
+G:\yolo\yolov7-main1\yolov7-main\pic\images\train\demo.jpg
+G:\yolo\yolov7-main1\yolov7-main\pic\images\train\faf6dc70f73368b3ece39ce249dd6e39.jpeg
+G:\yolo\yolov7-main1\yolov7-main\pic\images\train\fdf8c4523a41c038fd3eac4d9bb617dd.jpeg
